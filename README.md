@@ -1,2 +1,2 @@
 # pinkGame
-hypercasuak
+hypercasual
