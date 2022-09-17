@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 483f90a287914394c99a901be53081b4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -2793428901625111978
+    second: Boxing Glove.047|Boxing Glove.001Action.001
+  - first:
+      74: 2347234114259364051
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.001
+  - first:
+      74: 7644883448923586495
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.002
+  - first:
+      74: 6172386810724747492
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.003
+  - first:
+      74: -2720968051751370020
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.004
+  - first:
+      74: -8562190658921272824
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.005
+  - first:
+      74: -2969682938087851988
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.006
+  - first:
+      74: -2907024401409664827
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.007
+  - first:
+      74: -7621018565789157215
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.008
+  - first:
+      74: 7916472228006627754
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.009
+  - first:
+      74: -1384798898426793505
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.010
+  - first:
+      74: 9211502176776659085
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.011
+  - first:
+      74: 7014313902295680643
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.012
+  - first:
+      74: 3995809726178823397
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.013
+  - first:
+      74: -5606769492318031167
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.014
+  - first:
+      74: -260263455135240288
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.015
+  - first:
+      74: 4583876242033346386
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.016
+  - first:
+      74: 9055017667934290678
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.017
+  - first:
+      74: -7537742613861450968
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.018
+  - first:
+      74: -4538038125816274655
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.019
+  - first:
+      74: 1374904119711335521
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.020
+  - first:
+      74: 2636609900074968447
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.021
+  - first:
+      74: 8741225749991328627
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.022
+  - first:
+      74: -4277457775456911222
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.023
+  - first:
+      74: -2450938787661963492
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.024
+  - first:
+      74: 3761431789589146848
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.025
+  - first:
+      74: 8213666625713110415
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.026
+  - first:
+      74: 5012349406211687653
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.027
+  - first:
+      74: 231194762805748130
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.028
+  - first:
+      74: -4747215857667169567
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.029
+  - first:
+      74: 5770860829336978928
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.030
+  - first:
+      74: 1122792232807372767
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.031
+  - first:
+      74: 7947224274055550499
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.032
+  - first:
+      74: 4013344517063569188
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.033
+  - first:
+      74: -1337663825920447205
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.034
+  - first:
+      74: 1094125693425328618
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.035
+  - first:
+      74: -2729720947876516313
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.036
+  - first:
+      74: -7456430965566825526
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.037
+  - first:
+      74: -3989234528869274824
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.038
+  - first:
+      74: -101394900457150013
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.039
+  - first:
+      74: -1446522014242287839
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.040
+  - first:
+      74: -8890859298572971234
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.041
+  - first:
+      74: -5606978860535163188
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.042
+  - first:
+      74: 2640656383550174601
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.043
+  - first:
+      74: 3389129616714084159
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.044
+  - first:
+      74: -4156782470339243101
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.045
+  - first:
+      74: 3187704687358654550
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.046
+  - first:
+      74: 2254527899262169679
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.047
+  - first:
+      74: 3957388034179567396
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.048
+  - first:
+      74: -3470776103588991511
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.049
+  - first:
+      74: -3451352951691294058
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.050
+  - first:
+      74: -8234458097885916937
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.051
+  - first:
+      74: 5523296401498914734
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.052
+  - first:
+      74: -8902767302109148268
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.053
+  - first:
+      74: 8930899012191210716
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.054
+  - first:
+      74: 5453974052366708519
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.055
+  - first:
+      74: -6450188300680515710
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.056
+  - first:
+      74: 1699753298524129923
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.057
+  - first:
+      74: 8405704005657989826
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.058
+  - first:
+      74: 1419197394165925184
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.059
+  - first:
+      74: 8421383734355653396
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.060
+  - first:
+      74: -2189151483666009639
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.061
+  - first:
+      74: -7760354638001047273
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.062
+  - first:
+      74: 5819628896677280800
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.063
+  - first:
+      74: -629548711167380583
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.064
+  - first:
+      74: 5314137611416581874
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.065
+  - first:
+      74: 290585673842176126
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.066
+  - first:
+      74: -5956204206418118722
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.067
+  - first:
+      74: 2071138646727457703
+    second: Boxing Glove.047|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.068
+  - first:
+      74: -8224466451456396827
+    second: Boxing Glove.047|Key.068|Boxing Glove.002|Boxing Glove.001Action.001
+  - first:
+      74: -5935203687524705523
+    second: Boxing Glove.049|Boxing Glove.001Action.001
+  - first:
+      74: -69243526831851280
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.001
+  - first:
+      74: -7146017481262316316
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.002
+  - first:
+      74: -1613324949094129542
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.003
+  - first:
+      74: 3410805363828730199
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.004
+  - first:
+      74: -7404465043393269617
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.005
+  - first:
+      74: 9222120957389289495
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.006
+  - first:
+      74: 7660166391013594975
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.007
+  - first:
+      74: -8914520622661280672
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.008
+  - first:
+      74: -6778656974653174666
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.009
+  - first:
+      74: 5934697938405820780
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.010
+  - first:
+      74: 3739324893934135093
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.011
+  - first:
+      74: -2434553581142166438
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.012
+  - first:
+      74: -2305374762935336876
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.013
+  - first:
+      74: 2440667221258897397
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.014
+  - first:
+      74: -3919884555462743477
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.015
+  - first:
+      74: 881449343199440484
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.016
+  - first:
+      74: -5105196223718494762
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.017
+  - first:
+      74: -5532811771153096309
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.018
+  - first:
+      74: 7337589725884613028
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.019
+  - first:
+      74: 977892877769047256
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.020
+  - first:
+      74: 4732832174335660034
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.021
+  - first:
+      74: -1714308519239858315
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.022
+  - first:
+      74: 5014700429920706796
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.023
+  - first:
+      74: 481000104455936030
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.024
+  - first:
+      74: 3495935481253459759
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.025
+  - first:
+      74: 5722207617083731873
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.026
+  - first:
+      74: 220381297056460127
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.027
+  - first:
+      74: 4325590895778977589
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.028
+  - first:
+      74: -1140295702932139811
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.029
+  - first:
+      74: -2000131330099247980
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.030
+  - first:
+      74: -3885862560543138868
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.031
+  - first:
+      74: -7189563748402956103
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.032
+  - first:
+      74: 8855130193609932788
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.033
+  - first:
+      74: -7625651352926321162
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.034
+  - first:
+      74: -9038285817473666614
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.035
+  - first:
+      74: -5797356283063791042
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.036
+  - first:
+      74: -4518715963125714636
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.037
+  - first:
+      74: -7325476422169206436
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.038
+  - first:
+      74: -8371116507650478946
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.039
+  - first:
+      74: 2388189712063533576
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.040
+  - first:
+      74: -6283396505730707881
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.041
+  - first:
+      74: 4520872170404229854
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.042
+  - first:
+      74: 3457983780287544420
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.043
+  - first:
+      74: -1843387793966927439
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.044
+  - first:
+      74: -1395036577134434958
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.045
+  - first:
+      74: -96747380733718502
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.046
+  - first:
+      74: -2087043024202737372
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.047
+  - first:
+      74: 8220568197884260168
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.048
+  - first:
+      74: -2743207765343004155
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.049
+  - first:
+      74: 693296396546064068
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.050
+  - first:
+      74: 1348664766658836078
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.051
+  - first:
+      74: -7879433498412379223
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.052
+  - first:
+      74: 7764044496753276697
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.053
+  - first:
+      74: -4951754555089547564
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.054
+  - first:
+      74: -312718219373909300
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.055
+  - first:
+      74: -2133558634197044801
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.056
+  - first:
+      74: 3194429678907147856
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.057
+  - first:
+      74: 3700255838463895361
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.058
+  - first:
+      74: -2058750367620368123
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.059
+  - first:
+      74: -8816877833893134455
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.060
+  - first:
+      74: -4326499804912940727
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.061
+  - first:
+      74: 1797409430646378397
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.062
+  - first:
+      74: -6532078992371884718
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.063
+  - first:
+      74: -5483978755147516393
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.064
+  - first:
+      74: -1775935008591499404
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.065
+  - first:
+      74: -3243928047896576849
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.066
+  - first:
+      74: -893398781944237575
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.067
+  - first:
+      74: -2240643899378686628
+    second: Boxing Glove.049|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.068
+  - first:
+      74: -5322473451116374864
+    second: Boxing Glove.049|Key.068|Boxing Glove.002|Boxing Glove.001Action.001
+  - first:
+      74: -1513450107082195975
+    second: Boxing Glove.053|Boxing Glove.001Action.001
+  - first:
+      74: 2384422827502257813
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.001
+  - first:
+      74: -9069832056319436388
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.002
+  - first:
+      74: 555674661147722848
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.003
+  - first:
+      74: -564382925097281220
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.004
+  - first:
+      74: -5472048489311571740
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.005
+  - first:
+      74: -2870864982117323275
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.006
+  - first:
+      74: 3881293452402781479
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.007
+  - first:
+      74: -7047644580765894468
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.008
+  - first:
+      74: 5654534941051768968
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.009
+  - first:
+      74: 651696507602928357
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.010
+  - first:
+      74: 7845275239006199425
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.011
+  - first:
+      74: 2013658220477787387
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.012
+  - first:
+      74: 692538121122398032
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.013
+  - first:
+      74: 9128560469477187774
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.014
+  - first:
+      74: -190096917637719240
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.015
+  - first:
+      74: -5452243828548914831
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.016
+  - first:
+      74: 2010131384350765587
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.017
+  - first:
+      74: -4538698067773666505
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.018
+  - first:
+      74: -5232822558428478241
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.019
+  - first:
+      74: 3335792509613680257
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.020
+  - first:
+      74: -9073797644893550427
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.021
+  - first:
+      74: -567888889937455653
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.022
+  - first:
+      74: -1526671741969513659
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.023
+  - first:
+      74: 6560814070366651307
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.024
+  - first:
+      74: -8241320385375400782
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.025
+  - first:
+      74: -1510898013389080110
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.026
+  - first:
+      74: -4201612809707305392
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.027
+  - first:
+      74: -828365672348205201
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.028
+  - first:
+      74: -1292499396291496035
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.029
+  - first:
+      74: 9128253975263910785
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.030
+  - first:
+      74: -7661334152519614248
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.031
+  - first:
+      74: 5758661519525252102
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.032
+  - first:
+      74: -465300223210117319
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.033
+  - first:
+      74: -4393460527898570295
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.034
+  - first:
+      74: 2365266843437460677
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.035
+  - first:
+      74: -8181281065154425658
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.036
+  - first:
+      74: -8754691274303359124
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.037
+  - first:
+      74: 9017484220382031648
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.038
+  - first:
+      74: 4365321886690278202
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.039
+  - first:
+      74: 4857470934125557751
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.040
+  - first:
+      74: 7923842214396324024
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.041
+  - first:
+      74: -1590952286075001599
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.042
+  - first:
+      74: 7421051747276410045
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.043
+  - first:
+      74: -33052649327677849
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.044
+  - first:
+      74: -8432756482014321189
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.045
+  - first:
+      74: 5721618320469121882
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.046
+  - first:
+      74: 1653855781379785515
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.047
+  - first:
+      74: 5849018272264960861
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.048
+  - first:
+      74: 3323891431258595182
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.049
+  - first:
+      74: -4834455609726563305
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.050
+  - first:
+      74: 5516832679523640607
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.051
+  - first:
+      74: -6933609620619813405
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.052
+  - first:
+      74: 6830997962890259559
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.053
+  - first:
+      74: 6773124947624558854
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.054
+  - first:
+      74: 2934320674943069642
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.055
+  - first:
+      74: 6833526534790175617
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.056
+  - first:
+      74: 1328309734830711637
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.057
+  - first:
+      74: 7096976171113470478
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.058
+  - first:
+      74: 3175019502451914247
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.059
+  - first:
+      74: -4185627043892613554
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.060
+  - first:
+      74: 335755535047220732
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.061
+  - first:
+      74: 270775980026222916
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.062
+  - first:
+      74: 2927668812153142721
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.063
+  - first:
+      74: 4599156236274904985
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.064
+  - first:
+      74: -7623404517312434875
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.065
+  - first:
+      74: 2274288649104379909
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.066
+  - first:
+      74: -7224442525229475663
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.067
+  - first:
+      74: -2521350907318720548
+    second: Boxing Glove.053|Boxing Glove.002|Boxing Glove.002|Boxing Glove.001Action.068
+  - first:
+      74: -6460205146227109589
+    second: Boxing Glove.053|Key.068|Boxing Glove.002|Boxing Glove.001Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
